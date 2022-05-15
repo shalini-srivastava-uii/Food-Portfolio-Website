@@ -1,1 +1,2 @@
 # Food-Portfolio-Website
+Online Food Ordering Website using HTML, CSS, with sqlite database, You can use anyone of Live Server launching a development local server with live reload feature for static anddynamic pages to run the website on your local machine. It has a food ordering module for a customer. It also providesservices like "Food Catering, Bulk Ordering, Food Ordering" management module  for admin and many more features contained in it.
